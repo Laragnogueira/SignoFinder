@@ -2,8 +2,7 @@
 
 Bem-vindo ao **Descobrir Signos**, um projeto que permite aos usuários descobrir seu signo do zodíaco com base na data de nascimento.
 
-![Capa do Projeto](![Captura de tela 2024-11-12 222115](https://github.com/user-attachments/assets/903cd209-9b4c-48f4-9b5e-a91297fcff4a)
-)
+![Captura de tela 2024-11-12 222115](https://github.com/user-attachments/assets/903cd209-9b4c-48f4-9b5e-a91297fcff4a)
 
 ## Funcionalidades
 
@@ -21,8 +20,7 @@ Bem-vindo ao **Descobrir Signos**, um projeto que permite aos usuários descobri
 
 Aqui está um exemplo de como a interface do aplicativo pode aparecer:
 
-![Tela Principal](![Captura de tela 2024-11-12 222115](https://github.com/user-attachments/assets/b9ec608c-5976-4e9e-bbf9-52b0f8bf5bbc)
-)
+![Captura de tela 2024-11-12 222115](https://github.com/user-attachments/assets/b9ec608c-5976-4e9e-bbf9-52b0f8bf5bbc)
 
 Após inserir a data de nascimento, o aplicativo irá mostrar o seu signo do zodíaco.
 
