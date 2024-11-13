@@ -28,8 +28,8 @@ Após inserir a data de nascimento, o aplicativo irá mostrar o seu signo do zod
 
 O resultado será exibido como uma mensagem com o nome do signo e uma breve descrição:
 
-![Resultado do Signo](![image](https://github.com/user-attachments/assets/5347dda6-e77d-4755-b2e1-913dde59ad18)
-)
+![Captura de tela 2024-11-12 222530](https://github.com/user-attachments/assets/817a8b34-b983-4f9c-85f2-939599d3bd50)
+
 
 ## Tecnologias Utilizadas
 
