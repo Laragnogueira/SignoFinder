@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Descobrir Signos**, um projeto que permite aos usuários descobrir seu signo do zodíaco com base na data de nascimento.
 
-![Captura de tela 2024-11-12 222115](https://github.com/user-attachments/assets/903cd209-9b4c-48f4-9b5e-a91297fcff4a)
+![image](https://github.com/user-attachments/assets/c15b689d-75bd-4da9-bdb4-81f91629b1bd)
 
 ## Funcionalidades
 
